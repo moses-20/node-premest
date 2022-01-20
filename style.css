@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Quicksand", sans-serif;
+}
+
+details {
+  margin: 20px;
+}
+
+summary {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+summary:hover,
+summary:active {
+  cursor: pointer;
+}
+
+label {
+  display: block;
+  font-size: 25px;
+}
+
+input {
+  margin-right: 10px;
+  margin-left: 3px;
+}
